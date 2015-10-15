@@ -1,0 +1,35 @@
+{
+  "name": "phpfmt",
+  "main": "./lib/phpfmt",
+  "version": "1.0.0",
+  "description": "Sublime phpfmt within Atom",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "phpfmt:format"
+  },
+  "repository": "https://github.com/coredna/atom-phpfmt",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "engines": {
+    "atom": ">=0.50",
+    "php": ">=5.6"
+  },
+  "keywords": [
+    "phpfmt",
+    "php",
+    "formater",
+    "fixer",
+    "formatter",
+    "pretty printer",
+    "phpfmt",
+    "php.tools",
+    "psr1",
+    "psr2",
+    "psr"
+  ],
+  "dependencies": {
+  }
+}
